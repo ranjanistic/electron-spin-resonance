@@ -19,6 +19,8 @@ In alphabetical order.
 >Priyanshu Ranjan
 
 
-Conducted at Solid State physics laboratory
+Conducted at Solid State physics laboratory,
+
 Department of physics & astrophysics
+
 University of Delhi
